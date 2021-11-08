@@ -1,0 +1,3 @@
+include ':easy_event'
+include ':app'
+rootProject.name = "EasyEvent"
